@@ -1,0 +1,11 @@
+digraph CausalGraph {
+    rankdir=LR;
+    "finish_time_minutes";
+    "avg_temperature";
+    "humidity";
+    "wind_speed";
+
+    "avg_temperature" -> "humidity";
+    "humidity" -> "finish_time_minutes";
+    "wind_speed" -> "finish_time_minutes";
+}
