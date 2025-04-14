@@ -1,5 +1,3 @@
-[Note: This README.md is ai generated]
-
 # Marathon Performance Causal Analysis
 
 This project analyzes the causal relationships between weather conditions and marathon performance using causal discovery algorithms. The analysis is currently implemented using the GES (Greedy Equivalence Search) algorithm, with support for PC (Peter-Clark) and LINGAM algorithms as alternative options.
@@ -78,3 +76,5 @@ To switch between algorithms, uncomment the relevant section in `main.py` and co
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+[Note: This README.md is Ai generated]
