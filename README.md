@@ -1,3 +1,5 @@
+[Note: This README.md is ai generated]
+
 # Marathon Performance Causal Analysis
 
 This project analyzes the causal relationships between weather conditions and marathon performance using causal discovery algorithms. The analysis is currently implemented using the GES (Greedy Equivalence Search) algorithm, with support for PC (Peter-Clark) and LINGAM algorithms as alternative options.
@@ -29,7 +31,7 @@ The project uses causal discovery algorithms to:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/marathon-causal-analysis.git
+git clone https://github.com/SiBMs58/marathon-causal-analysis.git
 cd marathon-causal-analysis
 ```
 
